@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="desktop-environment-cinnamon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview9664"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="40.881356"
+     inkscape:cy="48"
+     inkscape:window-width="1862"
+     inkscape:window-height="1009"
+     inkscape:window-x="58"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -116,7 +139,11 @@
     </linearGradient>
     <filter
        id="filter3174"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          stdDeviation="1.71"
          id="feGaussianBlur3176" />
@@ -132,12 +159,12 @@
     <filter
        id="filter3794"
        color-interpolation-filters="sRGB"
-       height="1.3839999"
-       width="1.3839999"
-       y="-0.192"
-       x="-0.192">
+       height="1.0077285"
+       width="1.0077285"
+       y="-0.0038642658"
+       x="-0.0038642658">
       <feGaussianBlur
-         stdDeviation="5.28"
+         stdDeviation="0.0021006426"
          id="feGaussianBlur3796" />
     </filter>
     <linearGradient
@@ -158,18 +185,6 @@
        r="42"
        cy="90.171875"
        cx="48" />
-    <clipPath
-       id="clipPath3613">
-      <rect
-         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect3615"
-         y="6"
-         x="6"
-         ry="6"
-         rx="6"
-         height="84"
-         width="84" />
-    </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3700"
@@ -395,6 +410,16 @@
        y1="90"
        x1="48"
        gradientTransform="translate(-0.07863747,-0.26745577)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3737"
+       id="radialGradient10170"
+       cx="48"
+       cy="48"
+       fx="48"
+       fy="48"
+       r="33.25"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata2413">
@@ -404,7 +429,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -487,9 +512,9 @@
      id="layer5"
      transform="translate(202)">
     <rect
-       style="opacity:0.05;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3794)"
+       style="opacity:0.05;fill:url(#radialGradient10170);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3171"
-       clip-path="url(#clipPath3613)"
+       clip-path="none"
        y="15"
        x="15"
        ry="12"
@@ -497,5 +522,14 @@
        height="66"
        width="66"
        transform="translate(-202,2)" />
+    <rect
+       style="display:none;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3615"
+       y="8"
+       x="-196"
+       ry="6"
+       rx="6"
+       height="84"
+       width="84" />
   </g>
 </svg>

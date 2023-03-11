@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="96"
    height="96"
    id="svg2408"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="wine-winetricks.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="applications-featured.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#fefefe"
      bordercolor="#666666"
@@ -25,17 +25,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="722"
-     inkscape:window-height="480"
+     inkscape:window-width="1464"
+     inkscape:window-height="839"
      id="namedview144"
      showgrid="false"
      inkscape:zoom="3.3333333"
-     inkscape:cx="51.141036"
-     inkscape:cy="39.3"
+     inkscape:cx="49.35"
+     inkscape:cy="41.4"
      inkscape:window-x="270"
      inkscape:window-y="118"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2408" />
+     inkscape:current-layer="svg2408"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#fefefe" />
   <defs
      id="defs2410">
     <linearGradient
@@ -139,7 +142,11 @@
     </linearGradient>
     <filter
        id="filter3174"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          stdDeviation="1.71"
          id="feGaussianBlur3176" />
@@ -155,12 +162,12 @@
     <filter
        id="filter3794"
        color-interpolation-filters="sRGB"
-       height="1.3839999"
-       width="1.3839999"
-       y="-0.192"
-       x="-0.192">
+       height="1.0076126"
+       width="1.0076126"
+       y="-0.0038063246"
+       x="-0.0038063246">
       <feGaussianBlur
-         stdDeviation="5.28"
+         stdDeviation="0.00050725978"
          id="feGaussianBlur3796" />
     </filter>
     <linearGradient
@@ -181,18 +188,6 @@
        r="42"
        cy="90.171875"
        cx="48" />
-    <clipPath
-       id="clipPath3613">
-      <rect
-         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="rect3615"
-         y="6"
-         x="6"
-         ry="6"
-         rx="6"
-         height="84"
-         width="84" />
-    </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3778"
@@ -768,7 +763,11 @@
     </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter4304-2">
+       id="filter4304-2"
+       x="-0.046020698"
+       y="-0.016232718"
+       width="1.0920414"
+       height="1.0324654">
       <feGaussianBlur
          id="feGaussianBlur4306-7"
          stdDeviation="0.53347418" />
@@ -1575,6 +1574,16 @@
        y1="96"
        x2="48"
        y2="31.677887" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3737-68"
+       id="radialGradient17747"
+       cx="48"
+       cy="48"
+       fx="48"
+       fy="48"
+       r="33.25"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata2413">
@@ -1584,7 +1593,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1665,15 +1674,24 @@
   <g
      id="layer5">
     <rect
-       style="opacity:0.1;fill:url(#linearGradient3613-944);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)"
+       style="opacity:0.1;fill:url(#radialGradient17747);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3171"
-       clip-path="url(#clipPath3613)"
+       clip-path="none"
        y="15"
        x="15"
        ry="12"
        rx="12"
        height="66"
        width="66" />
+    <rect
+       style="display:none;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3615"
+       y="6"
+       x="6"
+       ry="6"
+       rx="6"
+       height="84"
+       width="84" />
   </g>
   <g
      id="layer3"

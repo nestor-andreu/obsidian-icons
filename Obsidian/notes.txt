@@ -1,0 +1,8 @@
+actions: a part de les Ns, scalable per a totes
+apps: la 96 a escalable a totes les mides
+appscol: la 96 a escalable a totes les mides
+categories: la 96 a escalable a totes les mides
+devices: scalable escalable a totes les mides
+
+places: totes les carpetes
+status: la 96 a escalable a totes les mides
